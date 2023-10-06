@@ -13,6 +13,7 @@ touch efs.tf
 touch transit_gateway.tf
 touch bastion_host.tf
 touch autoscaling.tf
+touch resource.tf
 
 
 echo "All files have been created in the E-COMMERCE-FORTRESS"
